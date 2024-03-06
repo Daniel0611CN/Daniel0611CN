@@ -7,8 +7,8 @@ Aunque todavía no tengo muchos conocimientos, intento centrarme en hacer bien l
 ## 🖥️ Program Languages
 
 <p align="center">
-  <div><img title="HTML5" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></div>
-  <div><img title="CSS" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></div>
+  <code><img title="HTML5" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
   <!--<code><img title="Javascript" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>-->
   <code><img title="Python" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
   <code><img title="Java" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
