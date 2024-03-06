@@ -1,8 +1,8 @@
 # Hi, i'm Dani! 👋
 
 ## 🌠 About Me
-Soy un amante de la tecnología, y me encanta el desarrollo web y la programación.
-Aunque todavía no tengo muchos conocimientos, intento centrarme en hacer bien lo que sé.
+I am a technology lover, and I love web development and programming. 
+Although I still don't have much knowledge, I try to focus on doing what I know well.
 
 ## 🖥️ Program Languages
 
