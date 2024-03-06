@@ -1,7 +1,6 @@
 ### Hi, i'm Dani! 👋
 
-
-
+🌠 About Me´
 
 # 📉 Github Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel0611CN&theme=onedark&hide_border=false)<br/>
