@@ -6,7 +6,7 @@ Aunque todavía no tengo muchos conocimientos, intento centrarme en hacer bien l
 
 ## 🖥️ Program Languages
 
-<code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+<code><img title="C" height="0" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
 <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
 <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
 <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
