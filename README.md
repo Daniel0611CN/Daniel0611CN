@@ -8,7 +8,7 @@ Aunque todavía no tengo muchos conocimientos, intento centrarme en hacer bien l
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/javascript.svg"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/java-original.svg"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 
 ## 📉 Github Stats
