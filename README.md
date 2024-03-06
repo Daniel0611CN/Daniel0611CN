@@ -9,12 +9,12 @@ Aunque todavía no tengo muchos conocimientos, intento centrarme en hacer bien l
 <p align="center">
   <code><img title="HTML5" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  /*<code><img title="Javascript" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>*/
+  <!--<code><img title="Javascript" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>-->
   <code><img title="Python" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
   <code><img title="Java" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  /*<code><img title="C" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+  <!--<code><img title="C" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
   <code><img title="C++" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>*/
+  <code><img title="C#" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>-->
 </p>
 
 ## 📉 Github Stats
@@ -27,5 +27,5 @@ Aunque todavía no tengo muchos conocimientos, intento centrarme en hacer bien l
 **Daniel0611CN/Daniel0611CN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 
