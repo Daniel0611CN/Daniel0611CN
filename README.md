@@ -1,10 +1,10 @@
-### Hi, i'm Dani! 👋
+# Hi, i'm Dani! 👋
 
-# 🌠 About Me
+## 🌠 About Me
 Soy un amante de la tecnología, y me encanta el desarrollo web y la programación.
 Aunque todavía no tengo muchos conocimientos, intento centrarme en hacer bien lo que sé.
 
-# 🖥️ Program Languages
+## 🖥️ Program Languages
 
 # 📉 Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=Daniel0611CN&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
