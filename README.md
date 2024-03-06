@@ -5,7 +5,7 @@ Soy un amante de la tecnología, y me encanta el desarrollo web y la programaci�
 Aunque todavía no tengo muchos conocimientos, intento centrarme en hacer bien lo que sé.
 
 ## 🖥️ Program Languages
-![HTML5]
+![HTML5](https://cdn-icons-png.flaticon.com/512/5968/5968267.png)
 ![CSS3]
 ![JavaScript]
 ![Java]
