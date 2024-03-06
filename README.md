@@ -7,16 +7,9 @@ Aunque todavía no tengo muchos conocimientos, intento centrarme en hacer bien l
 ## 🖥️ Program Languages
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/java-original.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/javascript.svg"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/java-original.svg"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-![CSS3]
-![JavaScript]
-![Java]
-![Python]
-[MySQL]
-![Docker]
-
 
 ## 📉 Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=Daniel0611CN&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
