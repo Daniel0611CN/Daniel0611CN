@@ -1,5 +1,5 @@
 <div align="center">
-<h1>
+<h1 text-decoration="none">
 👋 Hi, i'm Dani!
 </h1>
 </div>
