@@ -4,7 +4,9 @@
 I am a technology lover, and I love web development and programming. 
 Although I still don't have much knowledge, I try to focus on doing what I know well.
 
-## 🖥️ Program Languages
+<div align="center">
+🖥️ Program Languages
+</div>
 
 <br/>
 <div align="center">
