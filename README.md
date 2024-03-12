@@ -37,7 +37,9 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 <br/>
 
 <div align="center">
+<h2>
 📉 Github Stats
+</h2>
 </div>
 
 <br/>
