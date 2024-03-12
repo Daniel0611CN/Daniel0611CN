@@ -14,7 +14,7 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 
 <br/>
 
-<div align="center">
+<div align="center" width="200px">
 ## 📉 Github Stats
 </div>
 
