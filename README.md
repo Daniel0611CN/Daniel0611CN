@@ -7,7 +7,7 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 ## 🖥️ Program Languages
 
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=python,java,mysql" /><br>
 </div>
