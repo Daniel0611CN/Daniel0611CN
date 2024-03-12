@@ -1,15 +1,15 @@
 # Hi, i'm Dani! 👋
 
 <div align="center">
+<h1>
 🌠 About Me
+</h1>
 </div>
 
 <br/>
 <div align="center">
-<h1>
 I am a technology lover, and I love web development and programming. 
 Although I still don't have much knowledge, I try to focus on doing what I know well.
-</h1>
 </div>
 <br/>
 
