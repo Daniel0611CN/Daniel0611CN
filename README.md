@@ -1,6 +1,9 @@
 # Hi, i'm Dani! 👋
 
-## 🌠 About Me
+<div align="center">
+🌠 About Me
+</div>
+
 I am a technology lover, and I love web development and programming. 
 Although I still don't have much knowledge, I try to focus on doing what I know well.
 
