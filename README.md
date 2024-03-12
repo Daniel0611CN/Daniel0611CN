@@ -4,8 +4,11 @@
 🌠 About Me
 </div>
 
+<br/>
+<div align="center">
 I am a technology lover, and I love web development and programming. 
 Although I still don't have much knowledge, I try to focus on doing what I know well.
+</div>
 
 <div align="center">
 🖥️ Program Languages
