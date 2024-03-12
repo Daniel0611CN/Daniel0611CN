@@ -6,16 +6,13 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 
 ## 🖥️ Program Languages
 
-<p align="center">
-  <code><img title="HTML5" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <!--<code><img title="Javascript" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>-->
-  <code><img title="Python" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Java" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <!--<code><img title="C" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="C#" height="60" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>-->
-</p>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
 
 ## 📉 Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel0611CN&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Daniel0611CN's Github Stats">
