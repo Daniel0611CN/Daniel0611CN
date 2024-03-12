@@ -1,9 +1,7 @@
 # Hi, i'm Dani! 👋
 
-<div align="center">
-<h1>
+<div align="center" font-size="200px">
 🌠 About Me
-</h1>
 </div>
 
 <br/>
