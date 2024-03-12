@@ -1,4 +1,8 @@
-# Hi, i'm Dani! 👋
+<div align="center">
+<h1>
+Hi, i'm Dani! 👋
+</h1>
+</div>
 
 <div align="center">
 <h1>
