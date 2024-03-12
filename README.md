@@ -44,7 +44,7 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 
 <br/>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel0611CN\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Daniel0611CN's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel0611CN" alt="Daniel0611CN's Github Stats">
 </div>
 
 
