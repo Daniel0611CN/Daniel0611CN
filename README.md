@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-<h1>
+<h2>
 🌠 About Me
-</h1>
+</h2>
 </div>
 
 <br/>
@@ -18,9 +18,9 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 <br/>
 
 <div align="center">
-<h1>
+<h2>
 🖥️ Program Languages
-</h1>
+</h2>
 </div>
 
 <br/>
