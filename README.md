@@ -45,7 +45,6 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel0611CN&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github" alt="Daniel0611CN's Github Stats">
 </div>
-<!--&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage-->
 
 <br/>
 <div align="center">
@@ -53,4 +52,3 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 </div>
 
 
-<!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />-->
