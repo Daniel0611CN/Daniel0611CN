@@ -32,7 +32,7 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
     <img src="https://skillicons.dev/icons?i=html,css,github,python,java,mysql"/> 
     <br/>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,docker" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=20px height=20px />
 </div>
 <br/>
 
