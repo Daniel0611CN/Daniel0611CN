@@ -31,7 +31,7 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,github,python,java,mysql"/> 
     <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,Idea-Dark.svg,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,docker" />
     <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=42px height=42px />-->
 </div>
 <br/>
