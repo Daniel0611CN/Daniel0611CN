@@ -57,7 +57,7 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 
 <p align="center">
     <a href="https://twitter.com/DanielCN0611" alt="Twitter"><img src="https://static.wikia.nocookie.net/logopedia/images/a/a0/X_2023_Gray.svg/revision/latest?cb=20230818071448" height="24" width="24"></a>     
-    <a href="https://www.linkedin.com/in/anitish/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="24" width="24"></a>
+    <a href="https://www.linkedin.com/in/anitish/" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384030.png" height="24" width="24"></a>
   <a href="https://www.instagram.com/danielclavijonunez" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="24" width="24"></a>
   <!--<a href="https://www.dev.to/nitishawasthi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
   <a href="https://fosstodon.org/@nitishawasthi" alt="mastodon"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1200px-Mastodon_Logotype_(Simple).svg.png" height="30" width="30"></a>
