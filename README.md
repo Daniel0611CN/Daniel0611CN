@@ -56,7 +56,7 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 <br/>
 
 <p align="center">
-    <a href="https://twitter.com/naimish860" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="24" width="24"></a>     
+    <a href="https://twitter.com/DanielCN0611" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="24" width="24"></a>     
     <a href="https://www.linkedin.com/in/anitish/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="24" width="24"></a>
   <a href="https://www.instagram.com/danielclavijonunez" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="24" width="24"></a>
   <!--<a href="https://www.dev.to/nitishawasthi" alt="dev.to"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/download.png" height="30" width="30"></a>
