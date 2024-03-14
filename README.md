@@ -29,8 +29,9 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,python,java,mysql"/>
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,intellij"/>
+    <img src="https://skillicons.dev/icons?i=html,css,github,python,java,mysql"/> 
+    <br/>
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,docker"/>
 </div>
 <br/>
 
