@@ -31,8 +31,7 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git"/>
-    <img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,python,java,mysql"/>
 </div>
 <br/>
 
