@@ -53,6 +53,8 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
 
 <br/>
 
+<br/>
+
 <p align="center">
     <a href="https://twitter.com/naimish860" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
     <a href="https://www.linkedin.com/in/anitish/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
