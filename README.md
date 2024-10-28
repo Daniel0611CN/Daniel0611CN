@@ -64,5 +64,8 @@ Although I still don't have much knowledge, I try to focus on doing what I know 
   <a href="https://fosstodon.org/@nitishawasthi" alt="mastodon"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/1200px-Mastodon_Logotype_(Simple).svg.png" height="30" width="30"></a>
   <a href="https://codechef.com/anitish_225" alt="Codechef"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30"></a>-->
     <a href="mailto:daniclavijonunez@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="24" width="24"></a>
-    <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155">Mozilla Community</a>
+  </p>
+  <p></p>
+  <p align="center">
+          <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155">Mozilla Community</a>
   </p>
