@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-    <h2>🖥️ Programming Languages</h2>
+    <h2>🖥️ Technologies</h2>
 </div>
 
 <br/>
@@ -29,7 +29,7 @@
     <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-css-logo.svg"  width="50px"/>
     <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-js-logo.svg" width="50px"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,docker" />
+    <!-- <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,docker" /> -->
 </div>
 <br/>
 
