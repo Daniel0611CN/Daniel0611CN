@@ -26,7 +26,7 @@
 
 <div align="center">
     <!--   <img src="https://skillicons.dev/icons?i=html,css,github,python,java,mysql"/> -->
-    <img src="https://github.com/CSS-Next/logo.css/blob/main/css.svg"  width="100px"/>
+    <img src="https://github.com/CSS-Next/logo.css/blob/main/css.svg"  width="65px"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,docker" />
 </div>
