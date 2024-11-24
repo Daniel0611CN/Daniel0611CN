@@ -25,10 +25,10 @@
 <br/>
 
 <div align="center">
-    <!--   <python,java,mysql"/> -->
     <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-html-logo.svg"  width="50px"/>
     <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-css-logo.svg"  width="50px"/>
     <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-js-logo.svg" width="50px"/>
+    <img src="https://skillicons.dev/icons?i=java,python,mysql"/>
     <br/>
 </div>
 
@@ -41,7 +41,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,idea,docker" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,idea,docker"/>
 </div>
 
 <br/>
