@@ -25,8 +25,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,python,java,mysql"/> 
-    <img src="https://github.com/CSS-Next/logo.css/blob/main/primary/css.png" width="80px"/>
+    <!--   <img src="https://skillicons.dev/icons?i=html,css,github,python,java,mysql"/> -->
+    <img src="https://github.com/CSS-Next/logo.css/blob/main/css.svg" width="80px"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,docker" />
 </div>
