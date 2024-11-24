@@ -54,10 +54,8 @@ I am a technology enthusiast with a passion for web development and programming.
 
 <br/>
 
-<p align="center">
-    <a href="https://twitter.com/DanielCN0611" alt="Twitter"><img src="https://static.wikia.nocookie.net/logopedia/images/a/a0/X_2023_Gray.svg/revision/latest?cb=20230818071448" height="22" width="22"></a>     
+<p align="center">    
     <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" alt="LinkedIn"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="24" width="24"></a>
-    <a href="https://www.instagram.com/danielclavijonunez" alt="Instagram"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="24" width="24"></a>
     <a href="mailto:daniclavijonunez@gmail.com" alt="Contact Me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="24" width="24"></a>
 </p>
 <p align="center">
