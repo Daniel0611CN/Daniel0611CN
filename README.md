@@ -64,4 +64,6 @@ I am a technology enthusiast with a passion for web development and programming.
     <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155">Mozilla Community</a>
 </p>
 
-<a align="center">[![](https://visitcount.itsvg.in/api?id=Daniel0611CN&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)</a>
+<a href="https://visitcount.itsvg.in" align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Daniel0611CN&label=Profile%20Views&color=1&icon=0&pretty=false" />
+</a>
