@@ -25,12 +25,25 @@
 <br/>
 
 <div align="center">
-    <!--   <img src="https://skillicons.dev/icons?i=html,css,github,python,java,mysql"/> -->
+    <!--   <python,java,mysql"/> -->
+    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-html-logo.svg"  width="50px"/>
     <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-css-logo.svg"  width="50px"/>
     <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-js-logo.svg" width="50px"/>
     <br/>
-    <!-- <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,docker" /> -->
 </div>
+
+<br/>
+
+<div align="center">
+    <h2>⚙️ Tools</h2>
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,idea,docker" />
+</div>
+
 <br/>
 
 <div align="center">
