@@ -74,7 +74,7 @@
 <p align="center">    
     <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" alt="LinkedIn"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="24" width="24"></a>
     <a href="mailto:daniclavijonunez@gmail.com" alt="Contact Me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="24" width="24"></a>
-    <a href="https://gitlab.com/Daniel0611CN" alt="GitLab"><img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-js-logo.svg" width="50px"/></a>
+    <a href="https://gitlab.com/Daniel0611CN" alt="GitLab"><img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/gitlab.svg" height="24" width="24"/></a>
 </p>
 <p align="center">
     <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155">Mozilla Community</a>
