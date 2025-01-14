@@ -77,6 +77,7 @@
 </p>
 <p align="center">
     <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155">Mozilla Community</a>
+    <br>
     <a href="https://gitlab.com/Daniel0611CN" alt="GitLab"><img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/gitlab.svg" heigth="45" width="45"/></a>
 </p>
 
