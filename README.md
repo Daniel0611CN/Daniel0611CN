@@ -1,4 +1,13 @@
 <div align="center">
+    <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="50" cy="50" r="45" stroke="#ddd" stroke-width="5" fill="none"/>
+        <circle cx="50" cy="50" r="45" stroke="#3498db" stroke-width="5" fill="none" stroke-dasharray="283" stroke-dashoffset="0">
+            <animate attributeName="stroke-dashoffset" values="0;283" dur="1.5s" keyTimes="0;1" repeatCount="indefinite"/>
+        </circle>
+    </svg>
+</div>
+
+<div align="center">
     <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Daniel+Clavijo!;" />
     </h1>
