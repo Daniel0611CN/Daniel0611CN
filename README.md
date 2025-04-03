@@ -71,7 +71,53 @@
     <h2>🌐 Social Media</h2>
 </div>
 
-[![GitLab Profile](https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/main/images/prueba.svg)](https://gitlab.com/Daniel0611CN)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarjeta GitLab</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+            margin: 0;
+        }
+        .card {
+            width: 200px;
+            height: 120px;
+            background-color: black;
+            border-radius: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);
+        }
+        .card img {
+            width: 85px;
+            height: 85px;
+            transition: transform 0.3s ease;
+        }
+        .card:hover img {
+            transform: rotate(10deg);
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitLab_logo.svg" alt="GitLab Logo">
+    </div>
+</body>
+</html>
+
 
 <div align="center">
   <div style="margin: 20px auto; padding: 20px; background: linear-gradient(135deg, #f9f9f9, #eaeaea); border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); max-width: 300px; position: relative;">
