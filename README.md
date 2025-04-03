@@ -1,4 +1,4 @@
-![Loading Spinner](loading-spinner.svg)
+![Spinner](spinner.svg)
 
 <div align="center">
     <h1 align="center">
