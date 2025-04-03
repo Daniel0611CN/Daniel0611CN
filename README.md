@@ -70,6 +70,7 @@
 <div align="center">
     <h2>🌐 Social Media</h2>
 </div>
+
 [![GitLab Profile](https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/main/images/prueba.svg)](https://gitlab.com/Daniel0611CN)
 
 
