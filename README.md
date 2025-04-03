@@ -77,7 +77,7 @@
 </p>
 <p align="center">
     <a href="https://gitlab.com/Daniel0611CN" alt="GitLab"><img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/gitlab.svg" heigth="45" width="45"/></a>
-    [![GitLab Profile]([https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/main/images/gitlab-box.svg](https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/images/prueba.svg))](https://gitlab.com/Daniel0611CN)
+    [![GitLab Profile](https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/main/images/prueba.svg)](https://gitlab.com/Daniel0611CN)
     <br>
     <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155">Mozilla Community</a>
 </p>
