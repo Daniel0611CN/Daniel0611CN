@@ -202,5 +202,4 @@
         <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155" target="_blank">Mozilla Community</a>
     </div>
 </body>
-</html>
 
