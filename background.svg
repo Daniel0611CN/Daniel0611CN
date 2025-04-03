@@ -5,14 +5,12 @@
       <stop offset="100%" style="stop-color:#34495e; stop-opacity:1" />
     </linearGradient>
     <animate
-      xlink:href="#grad"
       attributeName="x1"
       values="0%;100%;0%"
       dur="1s"
       keyTimes="0;0.5;1"
       repeatCount="indefinite" />
     <animate
-      xlink:href="#grad"
       attributeName="x2"
       values="100%;0%;100%"
       dur="1s"
