@@ -5,13 +5,13 @@
       <stop offset="100%" style="stop-color:#44ffff; stop-opacity:1" />
     </linearGradient>
     <animate
-      attributeName="x1"
+      attributeName="x5"
       from="0%"
       to="100%"
       dur="1s"
       repeatCount="indefinite" />
     <animate
-      attributeName="x2"
+      attributeName="x5"
       from="100%"
       to="0%"
       dur="1s"
