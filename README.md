@@ -193,7 +193,7 @@
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             margin-bottom: 20px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitLab_logo.svg" alt="GitLab Logo">
+        <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/gitlab.svg" alt="GitLab Logo">
     </div>
     <div class="social-links">
         <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" target="_blank">LinkedIn</a>
