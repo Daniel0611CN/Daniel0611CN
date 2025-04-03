@@ -87,4 +87,18 @@
 </div>
 -->
 
+# Mi Proyecto
+
+<div align="center">
+	<br>
+	<a href="https://github.com/tu-usuario/tu-repositorio/blame/main/header.svg">
+		<picture>
+		  <source media="(min-width: 720px)" srcset="header.svg">
+		  <img src="header-mobile.svg" width="800" height="400" alt="Click to see the source">
+		</picture>
+	</a>
+	<br>
+</div>
+
+Explicación: [CSS Tricks](https://css-tricks.com/custom-styles-in-github-readmes/)
 
