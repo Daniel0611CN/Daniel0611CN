@@ -90,7 +90,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #f4f4f4;
+            background-color: red;
             margin: 0;
             flex-direction: column;
             font-family: Arial, sans-serif;">
@@ -104,13 +104,13 @@
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             margin-bottom: 20px;">
-        <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/gitlab.svg" alt="GitLab Logo">
+        <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/gitlab.svg" alt="GitLab Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
-    <div class="social-links">
-        <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" target="_blank">LinkedIn</a>
-        <a href="mailto:daniclavijonunez@gmail.com">Email</a>
-        <a href="https://gitlab.com/Daniel0611CN" target="_blank">GitLab</a>
-        <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155" target="_blank">Mozilla Community</a>
+    <div class="social-links" style="text-align: center;">
+        <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" target="_blank" style="display: block; margin: 5px 0;">LinkedIn</a>
+        <a href="mailto:daniclavijonunez@gmail.com" style="display: block; margin: 5px 0;">Email</a>
+        <a href="https://gitlab.com/Daniel0611CN" target="_blank" style="display: block; margin: 5px 0;">GitLab</a>
+        <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155" target="_blank" style="display: block; margin: 5px 0;">Mozilla Community</a>
     </div>
 </body>
 
