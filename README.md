@@ -73,6 +73,16 @@
 
 [![GitLab Profile](https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/main/images/prueba.svg)](https://gitlab.com/Daniel0611CN)
 
+<div align="center">
+  <div style="margin: 20px auto; padding: 20px; background: linear-gradient(135deg, #f9f9f9, #eaeaea); border-radius: 20px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); max-width: 300px; position: relative;">
+    <!-- Capa para el efecto de brillo -->
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 20px; background: linear-gradient(45deg, rgba(255,255,255,0.5), transparent); pointer-events: none;"></div>
+    <a href="https://gitlab.com/Daniel0611CN" style="position: relative; z-index: 1; display: inline-block;">
+      <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/main/images/prueba.svg" alt="GitLab Profile" style="display: block; border-radius: 20px; width: 100%; height: auto; border: 2px solid #ccc;">
+    </a>
+  </div>
+</div>
+
 
 <p align="center">    
     <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" alt="LinkedIn"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="24" width="24"></a>
