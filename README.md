@@ -132,24 +132,14 @@
 <div align="center">
     <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Daniel0611CN&label=Profile%20Views&color=1&icon=0&pretty=false" /></a>
 </div>
--->
 
-<!DOCTYPE html>
-<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarjeta GitLab</title>
     <style>
         body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f4f4f4;
-            margin: 0;
-            flex-direction: column;
-            font-family: Arial, sans-serif;
+            
         }
         .card {
             width: 200px;
@@ -164,9 +154,9 @@
             margin-bottom: 20px;
         }
         .card:hover {
-            transform: scale(1.05);
+     transform: scale(1.05);
             box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.5);
-        }
+        }       
         .card img {
             width: 85px;
             height: 85px;
@@ -184,9 +174,25 @@
             color: black;
         }
     </style>
-</head>
-<body>
-    <div class="card">
+</head>-->
+<body style="display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+            margin: 0;
+            flex-direction: column;
+            font-family: Arial, sans-serif;">
+    <div style="width: 200px;
+            height: 120px;
+            background-color: black;
+            border-radius: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin-bottom: 20px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitLab_logo.svg" alt="GitLab Logo">
     </div>
     <div class="social-links">
