@@ -70,6 +70,7 @@
 <div align="center">
     <h2>🌐 Social Media</h2>
 </div>
+[![GitLab Profile](https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/main/images/prueba.svg)](https://gitlab.com/Daniel0611CN)
 
 <p align="center">    
     <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" alt="LinkedIn"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="24" width="24"></a>
