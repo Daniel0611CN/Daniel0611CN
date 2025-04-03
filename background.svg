@@ -2,18 +2,18 @@
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#2c3e50; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#34495e; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00ffff; stop-opacity:1" />
     </linearGradient>
     <animate
       attributeName="x1"
       values="0%;100%;0%"
-      dur="1s"
+      dur="100s"
       keyTimes="0;0.5;1"
       repeatCount="indefinite" />
     <animate
       attributeName="x2"
       values="100%;0%;100%"
-      dur="1s"
+      dur="10s"
       keyTimes="0;0.5;1"
       repeatCount="indefinite" />
   </defs>
