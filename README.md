@@ -87,5 +87,5 @@
 </div>
 -->
 
-<p style="color: red">Daniel Clavijo Núñez</p>
+
 
