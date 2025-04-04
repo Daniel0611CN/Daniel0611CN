@@ -25,13 +25,13 @@
 <br/>
 
 <div align="center">
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/html.svg"  width="50px"/>
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/css.svg"  width="50px"/>
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/js.svg" width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/css.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/js.svg"  width="50px"/>
     <br/>
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/java.svg" width="50px"/>
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/python.svg" width="50px"/>
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/mysql.svg" width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg"  width="50px"/>
     <br/>
 </div>
 
