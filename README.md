@@ -45,6 +45,7 @@
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/spring.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/docker.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postman.svg"  width="50px"/>
     <br/>
 </div>
 
@@ -57,7 +58,10 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,idea,docker"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/vscode.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/webstorm.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/eclipse.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/intellij.svg"  width="50px"/>
 </div>
 
 <br/>
