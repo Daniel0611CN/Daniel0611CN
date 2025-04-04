@@ -25,11 +25,13 @@
 <br/>
 
 <div align="center">
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-html-logo.svg"  width="50px"/>
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-css-logo.svg"  width="50px"/>
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/official-js-logo.svg" width="50px"/>
+    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/html.svg"  width="50px"/>
+    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/css.svg"  width="50px"/>
+    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/js.svg" width="50px"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=java,python,mysql"/>
+    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/java.svg" width="50px"/>
+    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/python.svg" width="50px"/>
+    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/images/mysql.svg" width="50px"/>
     <br/>
 </div>
 
