@@ -61,7 +61,7 @@
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/vscode.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/webstorm.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/eclipse.svg"  width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/intellij.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/idea.svg"  width="50px"/>
 </div>
 
 <br/>
