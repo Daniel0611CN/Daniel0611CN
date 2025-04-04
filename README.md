@@ -28,7 +28,7 @@
  <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/css.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/sass.svg"  width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwind.css"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwindcss.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/javascript.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/htmx.svg"  width="50px"/>
