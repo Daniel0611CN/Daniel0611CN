@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/sass.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwindcss.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/javascript.svg"  width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg"  width="60px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/htmx.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/typescript.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/angular.svg"  width="50px"/>
@@ -39,6 +39,12 @@
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg"  width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/nodejs.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/git.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tomcat.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/spring.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg"  width="50px"/>
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/docker.svg"  width="50px"/>
     <br/>
 </div>
 
