@@ -101,8 +101,8 @@
 </div>
 
 <p align="center">    
-    <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" alt="LinkedIn"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="24" width="24"></a>
-    <a href="mailto:daniclavijonunez@gmail.com" alt="Contact Me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="24" width="24"></a>
+    <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" alt="LinkedIn"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linkedin.svg"  width="50px"/></a>
+    <a href="mailto:daniclavijonunez@gmail.com" alt="Contact Me"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/gmail.svg"  width="50px"/></a>
 </p>
 <p align="center">
     <a href="https://gitlab.com/Daniel0611CN" alt="GitLab"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/gitlab.svg" width="50px"/></a>
