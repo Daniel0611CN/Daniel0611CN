@@ -15,7 +15,7 @@
 <div align="center">
     I am a technology enthusiast with a passion for web development and programming. Although my knowledge is still growing, I am dedicated to excelling in the areas I am familiar with.
     <br><br>
-    <img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/img/daily.dev.png"/>
+    <a href="https://app.daily.dev/danielclavijonez"><img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/img/daily.dev.png"/></a>
 </div>
 
 <br/>
