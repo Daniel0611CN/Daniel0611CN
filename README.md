@@ -57,81 +57,82 @@
 </div> -->
 
 <div align="center">
-    <a href="https://www.figma.com/">
+    <a href="https://www.figma.com/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50px"/>
     </a>
-    <a href="https://www.adobe.com/products/xd.html">
+    <a href="https://www.adobe.com/products/xd.html" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50px"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50px"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/css.svg" width="50px"/>
     </a>
-    <a href="https://sass-lang.com/">
+    <a href="https://sass-lang.com/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/sass.svg" width="50px"/>
     </a>
-    <a href="https://tailwindcss.com/">
+    <a href="https://tailwindcss.com/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwindcss.svg" width="50px"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/javascript.svg" width="50px"/>
     </a>
-    <a href="https://getbootstrap.com/">
+    <a href="https://getbootstrap.com/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg" width="60px"/>
     </a>
-    <a href="https://htmx.org/">
+    <a href="https://htmx.org/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/htmx.svg" width="50px"/>
     </a>
-    <a href="https://www.typescriptlang.org/">
+    <a href="https://www.typescriptlang.org/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/typescript.svg" width="50px"/>
     </a>
-    <a href="https://angular.io/">
+    <a href="https://angular.io/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/angular.svg" width="50px"/>
     </a>
     <br/><br/>
-    <a href="https://www.java.com/">
+    <a href="https://www.java.com/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg" width="50px"/>
     </a>
-    <a href="https://maven.apache.org/">
+    <a href="https://maven.apache.org/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/maven.svg" width="50px"/>
     </a>
-    <!-- <a href="https://www.python.org/">
+    <!-- <a href="https://www.python.org/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg" width="50px"/>
     </a> -->
-    <a href="https://www.mysql.com/">
+    <a href="https://www.mysql.com/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg" width="50px"/>
     </a>
-    <a href="https://www.postgresql.org/">
+    <a href="https://www.postgresql.org/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postgresql.svg" width="50px"/>
     </a>
-    <a href="https://nodejs.org/">
+    <a href="https://nodejs.org/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/nodejs.svg" width="50px"/>
     </a>
-    <a href="https://www.npmjs.com/">
+    <a href="https://www.npmjs.com/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/npm.svg" width="50px"/>
     </a>
-    <a href="https://git-scm.com/">
+    <a href="https://git-scm.com/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/git.svg" width="50px"/>
     </a>
-    <a href="https://junit.org/">
+    <a href="https://junit.org/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/junit.svg" width="50px"/>
     </a>
-    <a href="https://tomcat.apache.org/">
+    <a href="https://tomcat.apache.org/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tomcat.svg" width="50px"/>
     </a>
-    <a href="https://spring.io/">
+    <a href="https://spring.io/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/spring.svg" width="50px"/>
     </a>
-    <a href="https://jwt.io/">
+    <a href="https://jwt.io/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg" width="50px"/>
     </a>
-    <a href="https://www.linux.org/">
+    <a href="https://www.linux.org/" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linux.svg" width="50px"/>
     </a>
     <br/>
 </div>
+
 
 
 <br/>
