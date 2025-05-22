@@ -26,7 +26,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50px"/>
@@ -42,7 +42,7 @@
     <br/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg" width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/maven.svg" width="50px"/>
-<!--     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg" width="50px"/> -->
+    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg" width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg" width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postgresql.svg" width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/nodejs.svg" width="50px"/>
@@ -54,7 +54,85 @@
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg" width="50px"/>
     <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linux.svg" width="50px"/>
     <br/>
+</div> -->
+
+<div align="center">
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50px"/>
+    </a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50px"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50px"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/css.svg" width="50px"/>
+    </a>
+    <a href="https://sass-lang.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/sass.svg" width="50px"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwindcss.svg" width="50px"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/javascript.svg" width="50px"/>
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg" width="60px"/>
+    </a>
+    <a href="https://htmx.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/htmx.svg" width="50px"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/typescript.svg" width="50px"/>
+    </a>
+    <a href="https://angular.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/angular.svg" width="50px"/>
+    </a>
+    <br/><br/>
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg" width="50px"/>
+    </a>
+    <a href="https://maven.apache.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/maven.svg" width="50px"/>
+    </a>
+    <!-- <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg" width="50px"/>
+    </a> -->
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg" width="50px"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postgresql.svg" width="50px"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/nodejs.svg" width="50px"/>
+    </a>
+    <a href="https://www.npmjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/npm.svg" width="50px"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/git.svg" width="50px"/>
+    </a>
+    <a href="https://junit.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/junit.svg" width="50px"/>
+    </a>
+    <a href="https://tomcat.apache.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tomcat.svg" width="50px"/>
+    </a>
+    <a href="https://spring.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/spring.svg" width="50px"/>
+    </a>
+    <a href="https://jwt.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg" width="50px"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linux.svg" width="50px"/>
+    </a>
+    <br/>
 </div>
+
 
 <br/>
 
