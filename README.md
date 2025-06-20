@@ -110,7 +110,6 @@
 <p align="center">
     <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155">Mozilla Community</a>
 </p>-->
-
 <div align="center">
     <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Daniel+Clavijo!;" />
@@ -181,13 +180,13 @@
     Aquí te presento algunos de mis proyectos web recientes:
     <ul>
         <li>
-            <a href="https://kristyco-studio.vercel.app">Kristyco Studio</a>: Un sitio web de estudio creativo, probablemente enfocado en diseño o multimedia.
+            <a href="https://kristyco-studio.vercel.app">Kristy&Co Studio</a>: Una tienda online de papelería especializada en bodas, desarrollada con **Angular** en el frontend y **Spring** en el backend para gestionar su base de datos **MySQL**.
         </li>
         <li>
-            <a href="https://cedago.vercel.app">Cedago</a>: Un proyecto web versátil que demuestra mis habilidades en desarrollo frontend.
+            <a href="https://cedago.vercel.app">Cedago</a>: Un proyecto web diseñado para ofrecer servicios de ciberseguridad. Está construido con **HTML**, **CSS** y **JavaScript**, integrando **SweetAlert** para mejorar la interacción con el usuario.
         </li>
         <li>
-            <a href="https://pixelifyit.netlify.app/">Pixelify It</a>: Una aplicación o herramienta centrada en la pixelización o el arte pixel.
+            <a href="https://pixelifyit.netlify.app/">Pixelify It</a>: Una herramienta interactiva que permite a los usuarios subir imágenes para pixelarlas u ofuscarlas. Desarrollado utilizando **HTML**, **CSS** y **JavaScript** puro.
         </li>
     </ul>
 </div>
