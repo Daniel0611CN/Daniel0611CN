@@ -101,7 +101,7 @@
 
 
 <div align="center">
-<a href="#">
+<a id="mi-estadistica">
     <img alt="Stats Bar" width=650px height="180px" src="https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars&theme=dark"/>
 </a>
 </div>
