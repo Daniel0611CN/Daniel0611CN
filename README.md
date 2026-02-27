@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-    <h2>🌠 About Me</h2>
+    <h2>About Me</h2>
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-    <h2>🖥️ Technologies</h2>
+    <h2>Technologies</h2>
 </div>
 
 <br/>
@@ -58,7 +58,7 @@
 <br/>
 
 <div align="center">
-    <h2>🚀 My Projects</h2>
+    <h2>My Projects</h2>
 </div>
 
 <br/>
@@ -82,7 +82,6 @@
 <br/>
 
 <div align="center">
-    <a id="no-link">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/vscode.svg" width="50px"/>
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/webstorm.svg" width="50px"/>
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/eclipse.svg" width="50px"/>
@@ -92,7 +91,6 @@
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/terminal.svg" width="50px"/>
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/virtualbox.svg" width="50px"/>
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/wsl.svg" width="50px"/>
-    </a>
 </div>
 
 <br/>
@@ -127,7 +125,7 @@
 <br/>
 
 <div align="center">
-    <h2>🌐 Social Media</h2>
+    <h2>Social Media</h2>
 </div>
 
 <p align="center">
