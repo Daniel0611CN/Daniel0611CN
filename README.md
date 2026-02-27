@@ -26,33 +26,35 @@
 <br/>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/css.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/sass.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwindcss.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/javascript.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg" width="60px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/htmx.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/typescript.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/angular.svg" width="50px"/>
-    <br/>
-    <br/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/maven.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postgresql.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/nodejs.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/npm.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/git.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/junit.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tomcat.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/spring.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linux.svg" width="50px"/>
-    <br/>
+    <a id="no-link">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/css.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/sass.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwindcss.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/javascript.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg" width="60px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/htmx.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/typescript.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/angular.svg" width="50px"/>
+        <br/>
+        <br/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/maven.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postgresql.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/nodejs.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/npm.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/git.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/junit.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tomcat.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/spring.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linux.svg" width="50px"/>
+        <br/>
+    </a>
 </div>
 
 <br/>
@@ -76,21 +78,25 @@
 <br/>
 
 <div align="center">
-    <h2>⚙️ Tools</h2>
+    <a id="no-link">
+        <h2>Tools</h2>
+    </a>
 </div>
 
 <br/>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/vscode.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/webstorm.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/eclipse.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/idea.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/docker.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postman.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/terminal.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/virtualbox.svg" width="50px"/>
-    <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/wsl.svg" width="50px"/>
+    <a id="no-link">
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/vscode.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/webstorm.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/eclipse.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/idea.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/docker.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postman.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/terminal.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/virtualbox.svg" width="50px"/>
+        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/wsl.svg" width="50px"/>
+    </a>
 </div>
 
 <br/>
@@ -118,12 +124,6 @@
     <a id="no-link">
         <img  alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
     </a>
-</div>
-
-<br/>
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel0611CN&langs_count=8&layout=compact&include_all_commits=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Daniel0611CN's GitHub Stats">
 </div>
 
 <br/>
