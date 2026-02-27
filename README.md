@@ -99,11 +99,12 @@
     <h2>📉 GitHub Stats</h2>
 </div>
 
-<a>
+
 <div align="center">
-<img width=650px heigth="180px" src="https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars&theme=dark"/>
-</div>
+<a href="#">
+    <img width=650px height="180px" src="https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars&theme=dark"/>
 </a>
+</div>
 
 <div align="center">
 <img alt="Responsive Graph" src="https://ssr-contributions-svg.vercel.app/_/Daniel0611CN?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native"/>
