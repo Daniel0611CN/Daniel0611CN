@@ -106,7 +106,7 @@
 
 <div align="center">
     <a id="no-link">
-        <img alt="Stats Bar" width="525" height="180" src="https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars&theme=dark"/>
+        <img alt="Stats Bar" width="575" height="180" src="https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars&theme=dark"/>
     </a>
 </div>
 
@@ -120,7 +120,7 @@
 
 <div align="center">
     <a id="no-link">
-        <img  alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
+        <img  alt="GitHub Stats" width="400" height="300" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
     </a>
 </div>
 
