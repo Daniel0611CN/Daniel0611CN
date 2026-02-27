@@ -99,6 +99,8 @@
     <h2>📉 GitHub Stats</h2>
 </div>
 
+![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars,commits&theme=dark)
+
 <br/>
 
 
