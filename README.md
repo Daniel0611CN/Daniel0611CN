@@ -82,15 +82,15 @@
 <br/>
 
 <div align="center">
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/vscode.svg" width="50px"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/webstorm.svg" width="50px"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/eclipse.svg" width="50px"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/idea.svg" width="50px"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/docker.svg" width="50px"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postman.svg" width="50px"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/terminal.svg" width="50px"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/virtualbox.svg" width="50px"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/wsl.svg" width="50px"/>
+    <a id="vscode"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/vscode.svg" width="50"/></a>
+    <a id="webstorm"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/webstorm.svg" width="50"/></a>
+    <a id="eclipse"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/eclipse.svg" width="50"/></a>
+    <a id="idea"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/idea.svg" width="50"/></a>
+    <a id="docker"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/docker.svg" width="50"/></a>
+    <a id="postman"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postman.svg" width="50"/></a>
+    <a id="terminal"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/terminal.svg" width="50"/></a>
+    <a id="virtualbox"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/virtualbox.svg" width="50"/></a>
+    <a id="wsl"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/wsl.svg" width="50"/></a>
 </div>
 
 <br/>
