@@ -78,7 +78,7 @@
 <a id="no-link">
     <div align="center">
         <h2>
-            <a id="no">
+            <a id="no" href="">
                 Tools
             </a>
         </h2>    
