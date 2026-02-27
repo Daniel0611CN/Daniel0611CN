@@ -100,7 +100,9 @@
 </div>
 
 <div align="center">
-    ![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars,commits&theme=dark)
+<a>
+<img alt="" src="https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars,commits&theme=dark"/>
+</a>
 </div>
 
 <div align="center">
