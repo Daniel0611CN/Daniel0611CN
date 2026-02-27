@@ -26,35 +26,33 @@
 <br/>
 
 <div align="center">
-    <a id="mis-iconos">
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/css.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/sass.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwindcss.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/javascript.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg" width="60"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/htmx.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/typescript.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/angular.svg" width="50"/>
-        <br/>
-        <br/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/maven.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postgresql.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/nodejs.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/npm.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/git.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/junit.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tomcat.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/spring.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg" width="50"/>
-        <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linux.svg" width="50"/>
-        <br/>
-    </a>
+    <a id="figma"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50"/></a>
+    <a id="xd"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50"/></a>
+    <a id="html"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50"/></a>
+    <a id="css"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/css.svg" width="50"/></a>
+    <a id="sass"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/sass.svg" width="50"/></a>
+    <a id="tailwind"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwindcss.svg" width="50"/></a>
+    <a id="js"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/javascript.svg" width="50"/></a>
+    <a id="bootstrap"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg" width="60"/></a>
+    <a id="htmx"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/htmx.svg" width="50"/></a>
+    <a id="ts"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/typescript.svg" width="50"/></a>
+    <a id="angular"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/angular.svg" width="50"/></a>
+    <br/>
+    <br/>
+    <a id="java"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg" width="50"/></a>
+    <a id="maven"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/maven.svg" width="50"/></a>
+    <a id="python"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg" width="50"/></a>
+    <a id="mysql"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg" width="50"/></a>
+    <a id="postgres"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postgresql.svg" width="50"/></a>
+    <a id="node"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/nodejs.svg" width="50"/></a>
+    <a id="npm"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/npm.svg" width="50"/></a>
+    <a id="git"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/git.svg" width="50"/></a>
+    <a id="junit"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/junit.svg" width="50"/></a>
+    <a id="tomcat"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tomcat.svg" width="50"/></a>
+    <a id="spring"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/spring.svg" width="50"/></a>
+    <a id="jwt"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg" width="50"/></a>
+    <a id="linux"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linux.svg" width="50"/></a>
+    <br/>
 </div>
 
 <br/>
