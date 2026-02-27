@@ -75,11 +75,11 @@
 
 <br/>
 
-<div align="center">
-    <a id="no-link">
-        <h2>Tools</h2>
-    </a>
-</div>
+<a id="no-link">
+    <div align="center">
+        <h2>Tools</h2>    
+    </div>
+</a>
 
 <br/>
 
