@@ -120,7 +120,7 @@
 
 <div align="center">
     <a id="no-link">
-        <img  alt="GitHub Stats" width="400" height="300" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
+        <img  alt="GitHub Stats" width="500" height="300" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
     </a>
 </div>
 
