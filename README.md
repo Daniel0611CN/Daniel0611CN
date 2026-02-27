@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center">
-    <a href="">
+    <a href="" color="transparent">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50px"/>
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50px"/>
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50px"/>
