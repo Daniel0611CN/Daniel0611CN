@@ -101,7 +101,7 @@
 
 <div align="center">
 <a>
-<img width=1000px heigth="300px" src="https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars&theme=dark"/>
+<img width=650px heigth="180px" src="https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars&theme=dark"/>
 </a>
 </div>
 
