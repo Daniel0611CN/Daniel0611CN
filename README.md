@@ -105,6 +105,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel0611CN&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github" alt="Daniel0611CN's GitHub Stats">
 </div>
 
+<div>
+    <a>    
+        <img  alt="daniel0611cn's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/daniel0611cn?cardType=level-alternate&theme=vue-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
+    </a>
+</div>
+
 <br/>
 
 <div align="center">
