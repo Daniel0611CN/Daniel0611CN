@@ -15,7 +15,6 @@
 <div align="center">
     Soy un apasionado de la tecnología con un gran interés en el desarrollo web y la programación. Aunque mi viaje de aprendizaje es continuo, me dedico a dominar las áreas en las que me desenvuelvo, siempre buscando nuevos desafíos y oportunidades para expandir mis conocimientos. Me encanta explorar nuevas herramientas y frameworks, y aplicar lo aprendido en proyectos prácticos.
     <br><br>
-    <a href="https://app.daily.dev/danielclavijonez"><img src="https://github.com/Daniel0611CN/Daniel0611CN/blob/main/img/daily.dev.png"/></a>
 </div>
 
 <br/>
