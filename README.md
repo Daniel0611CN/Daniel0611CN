@@ -75,15 +75,9 @@
 
 <br/>
 
-<a id="no-link">
-    <div align="center">
-        <h2>
-            <a id="no" href="">
-                Tools
-            </a>
-        </h2>    
-    </div>
-</a>
+<div align="center">
+    <h2>Tools</h2>    
+</div>
 
 <br/>
 
