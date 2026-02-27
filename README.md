@@ -25,8 +25,8 @@
 
 <br/>
 
-<a id="nolink">
 <div align="center">
+    <a href="">
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50px"/>
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50px"/>
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50px"/>
@@ -54,8 +54,8 @@
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg" width="50px"/>
         <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linux.svg" width="50px"/>
         <br/>
+    </a>
 </div>
-</a>
 
 <br/>
 
