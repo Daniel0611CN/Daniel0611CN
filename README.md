@@ -106,17 +106,13 @@
 </div>
 
 <div align="center">
-<a>
 <img alt="Responsive Graph" src="https://ssr-contributions-svg.vercel.app/_/Daniel0611CN?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native"/>
-</a>
 </div>
 
 <br/>
 
 <div align="center">
-    <a>    
-        <img  alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
-    </a>
+<img  alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
 </div>
 
 <br/>
