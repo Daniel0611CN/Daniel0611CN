@@ -102,9 +102,9 @@
 <br/>
 
 
-<div>
+<div align="center">
     <a>    
-        <img  alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=dark&fontFamily=42dot%20Sans&preferLogin=false"/>
+        <img  alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
     </a>
 </div>
 
