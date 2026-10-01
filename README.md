@@ -131,6 +131,3 @@
     <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" alt="LinkedIn"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linkedin.svg" width="50px"/></a>
     <a href="https://gitlab.com/Daniel0611CN" alt="GitLab"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/gitlab.svg" width="50px"/></a>
 </p>
-<p align="center">
-    <a href="https://connect.mozilla.org/t5/user/viewprofilepage/user-id/52155">Mozilla Community</a>
-</p>
