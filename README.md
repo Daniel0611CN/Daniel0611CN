@@ -69,8 +69,6 @@
     <a href="https://kristyco-studio.vercel.app">Kristy&Co Studio</a>: Una tienda online de papelería especializada en bodas, desarrollada con Angular en el frontend, junto con CSS, SCSS, Bootstrap, Sweetalert y Spring con Java en el backend para gestionar su base de         datos MySQL.
     <br>
     <a href="https://cedago.vercel.app">Cedago</a>: Un proyecto web diseñado para ofrecer servicios de ciberseguridad. Está construido con HTML, CSS y JavaScript, integrando SweetAlert para mejorar la interacción con el usuario.
-    <br>
-    <a href="https://pixelifyit.netlify.app/">Pixelify It</a>: Una herramienta interactiva que permite a los usuarios subir imágenes para pixelarlas u ofuscarlas. Desarrollado utilizando HTML, CSS y JavaScript puro.
 </div>
 
 <br/>
