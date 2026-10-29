@@ -1,133 +1,75 @@
 <div align="center">
-    <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Daniel+Clavijo!;" />
-    </h1>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=170&section=header&text=Daniel%20Clavijo%20N%C3%BA%C3%B1ez&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=Desarrollador%20web%20%C2%B7%20Amante%20de%20la%20ciberseguridad%20y%20la%20IA&descSize=16&descColor=cbd5e1&descAlignY=66" alt="Daniel Clavijo Núñez" width="100%" />
+
+<a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://gitlab.com/Daniel0611CN"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+<a href="mailto:daniclavijonunez@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
 <br/>
 
-<div align="center">
-    <h2>About Me</h2>
-</div>
+Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga. Me gusta construir proyectos prácticos, probar herramientas y frameworks nuevos y aprender sobre la marcha. Trabajo sobre todo con Angular, TypeScript y Java con Spring, y estoy aprendiendo **ciberseguridad** e **inteligencia artificial**, dos campos en los que quiero especializarme.
+
+- 📍 Málaga, España
+- 🎓 Grado superior en Desarrollo de Aplicaciones Web (DAW) y estudiante en la UMA
+- 💼 Prácticas en Arelance (marzo - junio de 2025) con Cypress y Protractor, entre otras tecnologías
+- 🏆 He participado en el curso GitHub Devs de la UMA y en la Malackaton (2025 y 2026)
+- 🌱 Ahora mismo: aprendiendo ciberseguridad e IA, y mejorando mis proyectos
 
 <br/>
 
-<div align="center">
-    Soy un apasionado de la tecnología con un gran interés en el desarrollo web y la programación. Aunque mi viaje de aprendizaje es continuo, me dedico a dominar las áreas en las que me desenvuelvo, siempre buscando nuevos desafíos y oportunidades para expandir mis conocimientos. Me encanta explorar nuevas herramientas y frameworks, y aplicar lo aprendido en proyectos prácticos.
-    <br><br>
-</div>
+## Proyectos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Daniel0611CN/Medly"><img src="https://opengraph.githubassets.com/1/Daniel0611CN/Medly" alt="Medly" /></a>
+      <h3>Medly</h3>
+      <p>App Android nativa para controlar tratamientos, existencias y tomas diarias. Incluye check-in diario, inventario y cálculo de días restantes.</p>
+      <p><sub>Kotlin · Room · MVVM · Compose Material 3</sub></p>
+      <a href="https://github.com/Daniel0611CN/Medly">Repositorio</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Daniel0611CN/malaga-tech-calendar"><img src="https://opengraph.githubassets.com/1/Daniel0611CN/malaga-tech-calendar" alt="Málaga Tech Calendar" /></a>
+      <h3>Málaga Tech Calendar</h3>
+      <p>Calendario de eventos tecnológicos de Málaga y la Costa del Sol, creado en el curso GitHub Devs de la UMA.</p>
+      <p><sub>TypeScript · GitHub Actions · GitHub Pages</sub></p>
+      <a href="https://github.com/Daniel0611CN/malaga-tech-calendar">Repositorio</a> · <a href="https://daniel0611cn.github.io/malaga-tech-calendar/">Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Daniel0611CN/TFG_Frontend"><img src="https://opengraph.githubassets.com/1/Daniel0611CN/TFG_Frontend" alt="Integrated Project TFG" /></a>
+      <h3>Integrated Project · TFG DAW</h3>
+      <p>Tienda online de papelería especializada en bodas, con frontend en Angular y backend en Java y Spring sobre MySQL.</p>
+      <p><sub>Angular · Bootstrap · Java · Spring · MySQL</sub></p>
+      <a href="https://github.com/Daniel0611CN/TFG_Frontend">Frontend</a> · <a href="https://github.com/Daniel0611CN/TFG_Backend">Backend</a> · <a href="https://integrated-proyect-fp.vercel.app">Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.kristycostudio.com"><img src="https://image.thum.io/get/width/1200/crop/600/https://www.kristycostudio.com" alt="Kristy&Co Studio" /></a>
+      <h3>Kristy&amp;Co Studio</h3>
+      <p>Web del estudio de papelería artesanal de mi madre en Málaga, con invitaciones de boda y envíos a toda España. Su objetivo es dar a conocer las colecciones y atraer nuevos clientes, cuidando también el posicionamiento en buscadores.</p>
+      <p><sub>Angular (SSR) · SEO</sub></p>
+      <a href="https://www.kristycostudio.com">kristycostudio.com</a>
+    </td>
+  </tr>
+</table>
+
+**Más proyectos**
+
+- **[Cedago](https://cedago.vercel.app)**: web de servicios de ciberseguridad con catálogo de programas, sección de servicios y área de perfil (registro, cuenta y notificaciones). Hecha con HTML, CSS y JavaScript, con SweetAlert para la interacción.
+- **[Pixelify](https://pixelifyit.netlify.app)**: pixelador de imágenes en HTML, CSS y JS puro.
 
 <br/>
 
-<div align="center">
-    <h2>Technologies</h2>
-</div>
+## Stack
 
-<br/>
-
-<div align="center">
-    <a id="figma"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/figma.svg" width="50"/></a>
-    <a id="xd"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/xd.svg" width="50"/></a>
-    <a id="html"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/html.svg" width="50"/></a>
-    <a id="css"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/css.svg" width="50"/></a>
-    <a id="sass"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/sass.svg" width="50"/></a>
-    <a id="tailwind"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tailwindcss.svg" width="50"/></a>
-    <a id="js"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/javascript.svg" width="50"/></a>
-    <a id="bootstrap"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/bootstrap.svg" width="60"/></a>
-    <a id="htmx"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/htmx.svg" width="50"/></a>
-    <a id="ts"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/typescript.svg" width="50"/></a>
-    <a id="angular"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/angular.svg" width="50"/></a>
-    <br/>
-    <br/>
-    <a id="java"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/java.svg" width="50"/></a>
-    <a id="maven"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/maven.svg" width="50"/></a>
-    <a id="python"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/python.svg" width="50"/></a>
-    <a id="mysql"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/mysql.svg" width="50"/></a>
-    <a id="postgres"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postgresql.svg" width="50"/></a>
-    <a id="node"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/nodejs.svg" width="50"/></a>
-    <a id="npm"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/npm.svg" width="50"/></a>
-    <a id="git"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/git.svg" width="50"/></a>
-    <a id="junit"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/junit.svg" width="50"/></a>
-    <a id="tomcat"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/tomcat.svg" width="50"/></a>
-    <a id="spring"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/spring.svg" width="50"/></a>
-    <a id="jwt"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/jwt.svg" width="50"/></a>
-    <a id="linux"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linux.svg" width="50"/></a>
-    <br/>
-</div>
-
-<br/>
-
-<div align="center">
-    <h2>My Projects</h2>
-</div>
-
-<br/>
-
-<div align="center">
-    Aquí te presento algunos de mis proyectos web recientes:
-    <br>
-    <a href="https://integrated-proyect-fp.vercel.app">TFG (Kristy&Co Studio)</a>: Una tienda online de papelería especializada en bodas, desarrollada con Angular en el frontend, junto con CSS, SCSS, Bootstrap, Sweetalert y Spring con Java en el backend para gestionar su base de         datos MySQL.
-    <br>
-    <a href="https://cedago.vercel.app">Cedago</a>: Un proyecto web diseñado para ofrecer servicios de ciberseguridad. Está construido con HTML, CSS y JavaScript, integrando SweetAlert para mejorar la interacción con el usuario.
-</div>
-
-<br/>
-
-<div align="center">
-    <h2>Tools</h2>    
-</div>
-
-<br/>
-
-<div align="center">
-    <a id="vscode"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/vscode.svg" width="50"/></a>
-    <a id="webstorm"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/webstorm.svg" width="50"/></a>
-    <a id="eclipse"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/eclipse.svg" width="50"/></a>
-    <a id="idea"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/idea.svg" width="50"/></a>
-    <a id="docker"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/docker.svg" width="50"/></a>
-    <a id="postman"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/postman.svg" width="50"/></a>
-    <a id="terminal"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/terminal.svg" width="50"/></a>
-    <a id="virtualbox"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/virtualbox.svg" width="50"/></a>
-    <a id="wsl"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/wsl.svg" width="50"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-    <h2>GitHub Stats</h2>
-</div>
-
-
-<div align="center">
-    <a id="no-link">
-        <img alt="Stats Bar" width="575" height="180" src="https://github-widgetbox.vercel.app/api/profile?username=Daniel0611CN&data=followers,repositories,stars&theme=dark"/>
-    </a>
-</div>
-
-<div align="center">
-<a id="no-link">
-<img alt="Responsive Graph" width="700" height="300" src="https://ssr-contributions-svg.vercel.app/_/Daniel0611CN?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native"/>
-</a>
-</div>
-
-<br/>
-
-<div align="center">
-    <a id="no-link">
-        <img  alt="GitHub Stats" width="375" height="250" src="https://awesome-github-stats.azurewebsites.net/user-stats/Daniel0611CN?cardType=level-alternate&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false"/>
-    </a>
-</div>
-
-<br/>
-
-<br/>
-
-<div align="center">
-    <h2>Social Media</h2>
-</div>
-
-<p align="center">
-    <a href="mailto:daniclavijonunez@gmail.com" alt="Contact Me"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/gmail.svg" width="50px"/></a>
-    <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/" alt="LinkedIn"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/linkedin.svg" width="50px"/></a>
-    <a href="https://gitlab.com/Daniel0611CN" alt="GitLab"><img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/refs/heads/main/img/gitlab.svg" width="50px"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,java,spring,python,nodejs,kotlin,mysql,postgres,docker,git,linux&perline=9" alt="Stack tecnológico" />
 </p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=60&section=footer" alt="" width="100%" />
