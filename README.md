@@ -101,13 +101,14 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,java,spring,python,nodejs,kotlin,graphql,mysql,postgres&perline=8" alt="Lenguajes, frameworks y bases de datos" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,java,spring,python,nodejs,graphql,mysql,postgres&perline=8" alt="Lenguajes, frameworks y bases de datos" />
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,cypress,postman,vscode,idea,webstorm,eclipse&perline=10" alt="Herramientas e IDEs" />
 </p>
 
+<p> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" /> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" /> </p>
 <br/>
 
 <a href="mailto:daniclavijonunez@gmail.com"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=130&section=footer&text=Gracias%20por%20pasarte%20por%20aqu%C3%AD&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Hablemos%20de%20tecnolog%C3%ADa%20%C2%B7%20daniclavijonunez%40gmail.com&descSize=15&descColor=cbd5e1&descAlignY=62" alt="Gracias por pasarte por aquí. Hablemos de tecnología: daniclavijonunez@gmail.com" width="100%" /></a>
