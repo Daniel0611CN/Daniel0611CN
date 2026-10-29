@@ -60,7 +60,6 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
 **Más proyectos**
 
 - **[Cedago](https://cedago.vercel.app)**: web de servicios de ciberseguridad con catálogo de programas, sección de servicios y área de perfil (registro, cuenta y notificaciones). Hecha con HTML, CSS y JavaScript, con SweetAlert para la interacción.
-- **[Pixelify](https://pixelifyit.netlify.app)**: pixelador de imágenes en HTML, CSS y JS puro.
 
 <br/>
 
