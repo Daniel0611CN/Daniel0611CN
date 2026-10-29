@@ -67,7 +67,7 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,java,spring,python,nodejs,kotlin,mysql,postgres,docker,git,linux&perline=9" alt="Stack tecnológico" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,java,spring,python,nodejs,mysql,postgres,docker,git,linux&perline=9" alt="Stack tecnológico" />
 </p>
 
 <br/>
