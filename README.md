@@ -32,11 +32,11 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
       <a href="https://github.com/Daniel0611CN/Medly">Repositorio</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Daniel0611CN/malaga-tech-calendar"><img src="https://opengraph.githubassets.com/1/Daniel0611CN/malaga-tech-calendar" alt="Málaga Tech Calendar" /></a>
+      <a href="https://daniel0611cn.github.io/Malaga-Tech-Calendar/"><img src="https://image.thum.io/get/width/1200/crop/600/https://daniel0611cn.github.io/Malaga-Tech-Calendar/" alt="Málaga Tech Calendar" /></a>
       <h3>Málaga Tech Calendar</h3>
       <p>Calendario de eventos tecnológicos de Málaga y la Costa del Sol, creado en el curso GitHub Devs de la UMA.</p>
-      <p><sub>TypeScript · GitHub Actions · GitHub Pages</sub></p>
-      <a href="https://github.com/Daniel0611CN/malaga-tech-calendar">Repositorio</a> · <a href="https://daniel0611cn.github.io/malaga-tech-calendar/">Demo</a>
+      <p><sub>React · TypeScript · Vite · GitHub Actions · GitHub Pages</sub></p>
+      <a href="https://github.com/Daniel0611CN/Malaga-Tech-Calendar">Repositorio</a> · <a href="https://daniel0611cn.github.io/Malaga-Tech-Calendar/">Demo</a>
     </td>
   </tr>
   <tr>
@@ -71,5 +71,11 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
 </p>
 
 <br/>
+
+<div align="center">
+
+Gracias por pasarte por aquí 👋 Si quieres colaborar o simplemente charlar de tecnología, escríbeme a [daniclavijonunez@gmail.com](mailto:daniclavijonunez@gmail.com).
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=60&section=footer" alt="" width="100%" />
