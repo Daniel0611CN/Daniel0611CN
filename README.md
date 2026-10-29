@@ -64,11 +64,51 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
 
 <br/>
 
+## Colaboraciones
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Daniel0611CN/Gemini-Suite-Navigation"><img src="https://opengraph.githubassets.com/1/Daniel0611CN/Gemini-Suite-Navigation" alt="Gemini Suite Navigation" /></a>
+      <h3>Gemini Suite Navigation</h3>
+      <p>Extensión de navegador para Google Gemini con carpetas para organizar chats, exportación a PDF, borrado masivo y navegación avanzada entre conversaciones. Hecha junto a <a href="https://github.com/CGCM070">César (CGCM070)</a>.</p>
+      <p><sub>JavaScript · Chrome API · Manifest V3</sub></p>
+      <a href="https://github.com/Daniel0611CN/Gemini-Suite-Navigation">Repositorio</a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+<br/>
+
+## Eventos
+
+<table>
+  <tr>
+    <td width="200" valign="top">
+      <img src="https://raw.githubusercontent.com/Daniel0611CN/Daniel0611CN/main/img/virtual-universe-26-badge.gif" alt="Placa de GitHub Universe '26" width="180" />
+    </td>
+    <td valign="top">
+      <p><b>GitHub Universe '26 (virtual)</b><br/>Completé el recorrido Virtual Universe '26 y conseguí la placa. <a href="https://github.com/Daniel0611CN/virtual-universe-26">Repositorio</a></p>
+      <p><b>GitHub Devs UMA</b><br/>Curso y Dev Days de la Universidad de Málaga, donde creé Málaga Tech Calendar.</p>
+      <p><b>Malackaton</b><br/>He participado en 2025 y 2026.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,java,spring,python,nodejs,mysql,postgres,docker,git,linux&perline=9" alt="Stack tecnológico" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,java,spring,python,nodejs,kotlin,graphql,mysql,postgres&perline=8" alt="Lenguajes, frameworks y bases de datos" />
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,cypress,postman,vscode,idea,webstorm,eclipse&perline=10" alt="Herramientas e IDEs" />
+</p>
+
+**Testing:** tests en Angular, Cypress y Protractor
 
 <br/>
 
