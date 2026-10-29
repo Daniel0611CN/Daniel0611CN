@@ -32,7 +32,7 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
       <a href="https://github.com/Daniel0611CN/Medly">Repositorio</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://daniel0611cn.github.io/Malaga-Tech-Calendar/"><img src="https://image.thum.io/get/width/1200/crop/600/https://daniel0611cn.github.io/Malaga-Tech-Calendar/" alt="Málaga Tech Calendar" /></a>
+      <a href="https://daniel0611cn.github.io/Malaga-Tech-Calendar/"><img src="https://image.thum.io/get/width/1200/crop/600/wait/5/https://daniel0611cn.github.io/Malaga-Tech-Calendar/?v=2" alt="Málaga Tech Calendar" /></a>
       <h3>Málaga Tech Calendar</h3>
       <p>Calendario de eventos tecnológicos de Málaga y la Costa del Sol, creado en el curso GitHub Devs de la UMA.</p>
       <p><sub>React · TypeScript · Vite · GitHub Actions · GitHub Pages</sub></p>
