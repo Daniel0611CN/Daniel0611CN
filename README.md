@@ -36,7 +36,7 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
       <h3>Málaga Tech Calendar</h3>
       <p>Calendario de eventos tecnológicos de Málaga y la Costa del Sol, creado en el curso GitHub Devs de la UMA.</p>
       <p><sub>React · TypeScript · Vite · GitHub Actions · GitHub Pages</sub></p>
-      <a href="https://github.com/Daniel0611CN/Malaga-Tech-Calendar">Repositorio</a> · <a href="https://daniel0611cn.github.io/Malaga-Tech-Calendar/">Demo</a>
+      <a href="https://github.com/Daniel0611CN/Malaga-Tech-Calendar">Repositorio</a> · <a href="https://daniel0611cn.github.io/Malaga-Tech-Calendar/">Web</a>
     </td>
   </tr>
   <tr>
@@ -45,10 +45,10 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
       <h3>Integrated Project · TFG DAW</h3>
       <p>Tienda online de papelería especializada en bodas, con frontend en Angular y backend en Java y Spring sobre MySQL.</p>
       <p><sub>Angular · Bootstrap · Java · Spring · MySQL</sub></p>
-      <a href="https://github.com/Daniel0611CN/TFG_Frontend">Frontend</a> · <a href="https://github.com/Daniel0611CN/TFG_Backend">Backend</a> · <a href="https://integrated-proyect-fp.vercel.app">Demo</a>
+      <a href="https://github.com/Daniel0611CN/TFG_Frontend">Frontend</a> · <a href="https://github.com/Daniel0611CN/TFG_Backend">Backend</a> · <a href="https://integrated-proyect-fp.vercel.app">Web</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.kristycostudio.com"><img src="https://image.thum.io/get/width/1200/crop/600/https://www.kristycostudio.com" alt="Kristy&Co Studio" /></a>
+      <a href="https://www.kristycostudio.com"><img src="https://image.thum.io/get/width/1500/crop/1000/https://www.kristycostudio.com" alt="Kristy&Co Studio" /></a>
       <h3>Kristy&amp;Co Studio</h3>
       <p>Web del estudio de papelería artesanal de mi madre en Málaga, con invitaciones de boda y envíos a toda España. Su objetivo es dar a conocer las colecciones y atraer nuevos clientes, cuidando también el posicionamiento en buscadores.</p>
       <p><sub>Angular (SSR) · SEO</sub></p>
