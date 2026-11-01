@@ -48,7 +48,7 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
       <a href="https://github.com/Daniel0611CN/TFG_Frontend">Frontend</a> · <a href="https://github.com/Daniel0611CN/TFG_Backend">Backend</a> · <a href="https://integrated-proyect-fp.vercel.app">Web</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.kristycostudio.com"><img src="https://image.thum.io/get/width/1500/crop/1000/https://www.kristycostudio.com" alt="Kristy&Co Studio" /></a>
+      <a href="https://www.kristycostudio.com"><img src="https://image.thum.io/get/width/1200/crop/600/https://www.kristycostudio.com" alt="Kristy&Co Studio" /></a>
       <h3>Kristy&amp;Co Studio</h3>
       <p>Web del estudio de papelería artesanal de mi madre en Málaga, con invitaciones de boda y envíos a toda España. Su objetivo es dar a conocer las colecciones y atraer nuevos clientes, cuidando también el posicionamiento en buscadores.</p>
       <p><sub>Angular (SSR) · SEO</sub></p>
