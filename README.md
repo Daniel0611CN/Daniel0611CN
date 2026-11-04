@@ -41,7 +41,7 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Daniel0611CN/TFG_Frontend"><img src="https://opengraph.githubassets.com/1/Daniel0611CN/tfg-daw" alt="Integrated Project TFG" /></a>
+      <a href="https://github.com/Daniel0611CN/tfg-daw"><img src="https://opengraph.githubassets.com/1/Daniel0611CN/tfg-daw" alt="Integrated Project TFG" /></a>
       <h3>Integrated Project · TFG DAW</h3>
       <p>Tienda online de papelería especializada en bodas, con frontend en Angular y backend en Java y Spring sobre MySQL.</p>
       <p><sub>Angular · Bootstrap · Java · Spring · MySQL</sub></p>
