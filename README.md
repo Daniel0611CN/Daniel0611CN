@@ -111,4 +111,3 @@ Soy desarrollador de aplicaciones web y estudiante en la Universidad de Málaga.
 <br/>
 
 <a href="mailto:daniclavijonunez@gmail.com"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=130&section=footer&text=Gracias%20por%20pasarte%20por%20aqu%C3%AD&fontSize=26&fontColor=ffffff&fontAlignY=38&desc=Hablemos%20de%20tecnolog%C3%ADa%20%C2%B7%20daniclavijonunez%40gmail.com&descSize=15&descColor=cbd5e1&descAlignY=62" alt="Gracias por pasarte por aquí. Hablemos de tecnología: daniclavijonunez@gmail.com" width="100%" /></a>
-
