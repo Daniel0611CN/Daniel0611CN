@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.danielclavijo.dev/"><img height="24" src="https://img.shields.io/badge/Portfolio-78A9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101114" alt="Portfolio" /></a>
-  <a href="https://github.com/Daniel0611CN/cv/raw/main/CV_Daniel_Clavijo_Desarrollo_Web.pdf"><img height="24" src="https://img.shields.io/badge/Mi%20CV-Descargar-black?style=flat-square" alt="CV" /></a>
+  <a href="https://github.com/Daniel0611CN/cv/raw/main/CV_Daniel_Clavijo_Desarrollo_Web.pdf"><img height="24" src="https://img.shields.io/badge/CV-Descargar-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101114" alt="Descargar CV" /></a>
   <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/"><img height="24" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://gitlab.com/Daniel0611CN"><img height="24" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
   <a href="mailto:daniclavijonunez@gmail.com"><img height="24" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
