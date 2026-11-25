@@ -4,7 +4,7 @@
 
 <a href="https://www.danielclavijo.dev/"><img src="https://img.shields.io/badge/Portfolio-danielclavijo.dev-78A9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101114" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/daniel-clavijo-nu%C3%B1ez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://gitlab.com/Daniel0611CN"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+<!-- <a href="https://gitlab.com/Daniel0611CN"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a> -->
 <a href="mailto:daniclavijonunez@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
