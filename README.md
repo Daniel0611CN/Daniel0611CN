@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=170&section=header&text=Daniel%20Clavijo%20N%C3%BA%C3%B1ez&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=Desarrollador%20web%20%C2%B7%20Amante%20de%20la%20ciberseguridad%20y%20la%20IA&descSize=16&descColor=cbd5e1&descAlignY=66" alt="Daniel Clavijo Núñez" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=170&section=header&text=Daniel%20Clavijo%20N%C3%BA%C3%B1ez&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=Desarrollador%20web%20%C2%B7%20Amante%20de%20la%20ciberseguridad%20y%20la%20IA&descSize=16&descColor=cbd5e1&descAlignY=66" alt="Daniel Clavijo Núñez" width="100%" /> -->
+
+<a href="https://danielclavijo.dev">
+  <img
+    src="./img/daniel-clavijo-retro.gif"
+    alt="Daniel Clavijo · Desarrollo web en Málaga · Visita mi portfolio"
+    width="100%"
+  />
+</a>
 
 <p align="center">
   <a href="https://www.danielclavijo.dev/"><img height="24" src="https://img.shields.io/badge/Portfolio-78A9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101114" alt="Portfolio" /></a>
